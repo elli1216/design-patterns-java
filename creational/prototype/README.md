@@ -20,6 +20,8 @@ The Prototype pattern creates new objects by copying an existing object, known a
 | **ConcretePrototype** | Implements the `Prototype` interface and defines how cloning is performed (shallow or deep copy). |
 | **Client** | Creates new objects by asking a prototype to clone itself, rather than calling a constructor. |
 
+![Prototype Pattern](prototype.png)
+
 ## Code Example
 
 ### Problem

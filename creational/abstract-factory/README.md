@@ -21,6 +21,8 @@ The Abstract Factory pattern provides an interface for creating families of rela
 | **ConcreteProduct** | Defines a product object to be created by the corresponding concrete factory; implements the `AbstractProduct` interface. |
 | **Client** | Uses only interfaces declared by `AbstractFactory` and `AbstractProduct` classes. |
 
+![Abstract Factory Pattern](abstract-factory.png)
+
 ## Code Example
 
 ### Problem

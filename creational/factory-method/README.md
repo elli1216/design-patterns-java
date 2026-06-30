@@ -20,6 +20,8 @@ The Factory Method pattern defines an interface for creating an object but lets 
 | **Creator** | Declares the factory method that returns a `Product` object. May also define a default implementation. |
 | **ConcreteCreator** | Overrides the factory method to return an instance of a `ConcreteProduct`. |
 
+![Factory Method Pattern](factory.png)
+
 ## Code Example
 
 ### Problem

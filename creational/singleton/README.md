@@ -19,6 +19,8 @@ The Singleton pattern ensures that a class has only one instance and provides a 
 | **Singleton** | Defines a static method `getInstance()` that returns the same instance every time. The constructor is hidden from client code. |
 | **Client** | Accesses the Singleton only through the `getInstance()` method. |
 
+![Singleton Pattern](singleton.png)
+
 ## Code Example
 
 ### Problem

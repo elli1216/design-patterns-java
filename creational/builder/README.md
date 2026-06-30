@@ -21,6 +21,8 @@ The Builder pattern separates the construction of a complex object from its repr
 | **Director** | Constructs an object using the `Builder` interface. |
 | **Product** | Represents the complex object under construction. |
 
+![Builder Pattern](builder.png)
+
 ## Code Example
 
 ### Problem
