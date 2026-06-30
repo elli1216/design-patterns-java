@@ -22,6 +22,8 @@ The Flyweight pattern minimizes memory usage by sharing as much data as possible
 | **FlyweightFactory** | Creates and manages flyweight objects; ensures that flyweights are shared properly. |
 | **Client** | Maintains references to flyweights and computes or stores extrinsic state. |
 
+![Flyweight Pattern](flyweight.png)
+
 ## Code Example
 
 ### Problem

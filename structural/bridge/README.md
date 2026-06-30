@@ -20,6 +20,8 @@ The Bridge pattern decouples an abstraction from its implementation so that the 
 | **Implementor** | Defines the interface for implementation classes. |
 | **ConcreteImplementor** | Implements the `Implementor` interface and defines the concrete implementation. |
 
+![Bridge Pattern](bridge.png)
+
 ## Code Example
 
 ### Problem

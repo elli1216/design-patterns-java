@@ -21,6 +21,8 @@ The Composite pattern composes objects into tree structures to represent part-wh
 | **Composite** | Defines behavior for components having children; stores child components; implements child-related operations in the `Component` interface. |
 | **Client** | Manipulates objects in the composition through the `Component` interface. |
 
+![Composite Pattern](composite.png)
+
 ## Code Example
 
 ### Problem

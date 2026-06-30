@@ -20,6 +20,8 @@ The Decorator pattern attaches additional responsibilities to an object dynamica
 | **Decorator** | Maintains a reference to a `Component` object and defines an interface that conforms to `Component`'s interface. |
 | **ConcreteDecorator** | Adds responsibilities to the component. |
 
+![Decorator Pattern](decorator.png)
+
 ## Code Example
 
 ### Problem

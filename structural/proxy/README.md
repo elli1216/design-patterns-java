@@ -20,6 +20,8 @@ The Proxy pattern provides a surrogate or placeholder for another object to cont
 | **RealSubject** | The real object that the proxy represents. |
 | **Proxy** | Maintains a reference to the `RealSubject` and controls access to it; implements the same interface as the `Subject`. |
 
+![Proxy Pattern](proxy.png)
+
 ## Code Example
 
 ### Problem

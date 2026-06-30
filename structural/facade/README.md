@@ -19,6 +19,8 @@ The Facade pattern provides a unified, simplified interface to a set of interfac
 | **Subsystem Classes** | Implement the actual functionality; they handle the detailed work but are unaware of the facade. |
 | **Client** | Uses the facade instead of calling the subsystem classes directly. |
 
+![Facade Pattern](facade.png)
+
 ## Code Example
 
 ### Problem

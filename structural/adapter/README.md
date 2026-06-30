@@ -20,6 +20,8 @@ The Adapter pattern allows objects with incompatible interfaces to collaborate. 
 | **Adaptee** | Defines an existing interface that needs adapting. |
 | **Client** | Collaborates with objects conforming to the `Target` interface. |
 
+![Adapter Pattern](adapter.png)
+
 ## Code Example
 
 ### Problem
