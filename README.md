@@ -40,3 +40,7 @@ Behavioral design patterns focus on how objects and classes interact and communi
 - [Strategy](behavioral/strategy/README.md)
 - [Template Method](behavioral/template-method/README.md)
 - [Visitor](behavioral/visitor/README.md)
+
+---
+
+> **Image Credits:** All diagrams used in this repository are the property of their respective owners. They are included for educational purposes only.

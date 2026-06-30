@@ -21,6 +21,8 @@ The Observer pattern defines a one-to-many dependency between objects so that wh
 | **ConcreteSubject** | Stores the state of interest to `ConcreteObserver` objects; sends notification to its observers when its state changes. |
 | **ConcreteObserver** | Maintains a reference to a `ConcreteSubject` object; implements the `Observer` updating interface to keep its state consistent with the subject's. |
 
+![Observer Pattern](observer.png)
+
 ## Code Example
 
 ### Problem

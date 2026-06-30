@@ -19,6 +19,8 @@ The Template Method pattern defines the skeleton of an algorithm in a method, de
 | **AbstractClass** | Defines abstract primitive operations that concrete subclasses define to implement steps of an algorithm; implements a template method that defines the skeleton of an algorithm. |
 | **ConcreteClass** | Implements the primitive operations to carry out subclass-specific steps of the algorithm. |
 
+![Template Method Pattern](template.png)
+
 ## Code Example
 
 ### Problem

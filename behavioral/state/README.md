@@ -20,6 +20,8 @@ The State pattern allows an object to alter its behavior when its internal state
 | **State** | Declares an interface for encapsulating the behavior associated with a particular state of the `Context`. |
 | **ConcreteState** | Each subclass implements a behavior associated with a state of the `Context`. |
 
+![State Pattern](state.png)
+
 ## Code Example
 
 ### Problem

@@ -20,6 +20,8 @@ The Chain of Responsibility pattern passes a request along a chain of handlers. 
 | **ConcreteHandler** | Handles requests it is responsible for; otherwise forwards the request to its successor. |
 | **Client** | Initiates the request to a handler on the chain. |
 
+![Chain of Responsibility Pattern](cor.png)
+
 ## Code Example
 
 ### Problem

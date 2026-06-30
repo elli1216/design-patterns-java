@@ -20,6 +20,8 @@ The Strategy pattern defines a family of algorithms, encapsulates each one, and 
 | **ConcreteStrategy** | Implements the algorithm using the `Strategy` interface. |
 | **Context** | Is configured with a `ConcreteStrategy` object; maintains a reference to a `Strategy` object; may define an interface that lets the strategy access its data. |
 
+![Strategy Pattern](strategy.png)
+
 ## Code Example
 
 ### Problem

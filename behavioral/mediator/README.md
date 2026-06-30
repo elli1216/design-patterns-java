@@ -20,6 +20,8 @@ The Mediator pattern defines an object that encapsulates how a set of objects in
 | **ConcreteMediator** | Implements cooperative behavior by coordinating colleague objects; knows and maintains references to colleagues. |
 | **Colleague** | Each colleague object knows its mediator object; communicates with other colleagues only through the mediator. |
 
+![Mediator Pattern](mediator.png)
+
 ## Code Example
 
 ### Problem

@@ -22,6 +22,8 @@ The Visitor pattern lets you define a new operation on a set of objects without 
 | **ConcreteElement** | Implements the `accept()` operation, which calls the appropriate `visit()` method on the visitor. |
 | **ObjectStructure** | Can enumerate its elements; may provide a high-level interface to allow the visitor to visit its elements. |
 
+![Visitor Pattern](visitor.png)
+
 ## Code Example
 
 ### Problem

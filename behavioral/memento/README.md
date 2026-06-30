@@ -20,6 +20,8 @@ The Memento pattern captures and externalizes an object's internal state so that
 | **Memento** | Stores the internal state of the `Originator` object; prevents objects other than the originator from accessing its contents. |
 | **Caretaker** | Is responsible for the memento's safekeeping; never operates on or examines the contents of a memento. |
 
+![Memento Pattern](memento.png)
+
 ## Code Example
 
 ### Problem

@@ -22,6 +22,8 @@ The Command pattern encapsulates a request as an object, allowing parameterizati
 | **Invoker** | Asks the command to carry out the request. |
 | **Client** | Creates a `ConcreteCommand` object and sets its receiver. |
 
+![Command Pattern](command.png)
+
 ## Code Example
 
 ### Problem

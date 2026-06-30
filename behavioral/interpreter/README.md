@@ -22,6 +22,8 @@ The Interpreter pattern defines a grammatical representation for a language and 
 | **Context** | Contains information that is global to the interpreter. |
 | **Client** | Builds (or is given) an abstract syntax tree representing a particular sentence. |
 
+![Interpreter Pattern](interpreter.png)
+
 ## Code Example
 
 ### Problem
